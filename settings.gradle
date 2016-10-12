@@ -1,0 +1,5 @@
+rootProject.name = 'TestSpace'
+include 'Spielplatz'
+include 'PatternZoo'
+include 'codewars'
+
